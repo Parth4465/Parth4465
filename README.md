@@ -186,17 +186,19 @@ flowchart TD
  
 ## `> stack --list`
  
-| Category | Technologies |
-|:---|:---|
-| Languages | Python · Java · JavaScript · C++ · PHP · Kotlin |
-| Frontend | HTML · CSS · React · Angular |
-| Backend | Node.js · Spring · Flask · PHP |
-| Mobile | Android Studio (Java, Kotlin) |
-| Databases | MySQL · MongoDB · Oracle |
-| Cloud and AI | AWS · OpenAI API |
-| Security | Kali Linux · Nmap · Wireshark · Metasploit · Snort |
-| Developer tools | Git · GitHub · VS Code |
+<div align="center">
+| Category | Icons | Technologies |
+|:---|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,cpp,php,kotlin&theme=dark" height="40" /> | Python · Java · JavaScript · C++ · PHP · Kotlin |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=dark" height="40" /> | HTML · CSS · React · Angular |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,php&theme=dark" height="40" /> | Node.js · Spring · Flask · PHP |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&theme=dark" height="40" /> | Android Studio (Java, Kotlin) |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle&theme=dark" height="40" /> | MySQL · MongoDB · Oracle |
+| **Cloud and AI** | <img src="https://skillicons.dev/icons?i=aws,openai&theme=dark" height="40" /> | AWS · OpenAI API |
+| **Security** | <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" height="40" /> <img src="https://img.shields.io/badge/Nmap-0f172a?style=flat-square&logo=nmap&logoColor=7dd3fc&labelColor=0f172a&color=38bdf8" /> <img src="https://img.shields.io/badge/Wireshark-0f172a?style=flat-square&logo=wireshark&logoColor=7dd3fc&labelColor=0f172a&color=38bdf8" /> <img src="https://img.shields.io/badge/Metasploit-0f172a?style=flat-square&logo=metasploit&logoColor=7dd3fc&labelColor=0f172a&color=38bdf8" /> <img src="https://img.shields.io/badge/Snort-0f172a?style=flat-square&logo=snort&logoColor=7dd3fc&labelColor=0f172a&color=38bdf8" /> | Kali Linux · Linux · Nmap · Wireshark · Metasploit · Snort |
+| **Developer tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" /> | Git · GitHub · VS Code |
  
+</div>
 ---
  
 ## `> git log --stats`

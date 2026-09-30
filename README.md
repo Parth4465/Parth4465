@@ -186,19 +186,17 @@ flowchart TD
  
 ## `> stack --list`
  
-<div align="center">
-| | |
+| Category | Technologies |
 |:---|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,cpp,php,kotlin" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,angular" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,spring,flask" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" /> |
-| **Cloud and AI** | <img src="https://skillicons.dev/icons?i=aws,openai" /> |
-| **Security** | <img src="https://skillicons.dev/icons?i=kali,linux" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| Languages | Python · Java · JavaScript · C++ · PHP · Kotlin |
+| Frontend | HTML · CSS · React · Angular |
+| Backend | Node.js · Spring · Flask · PHP |
+| Mobile | Android Studio (Java, Kotlin) |
+| Databases | MySQL · MongoDB · Oracle |
+| Cloud and AI | AWS · OpenAI API |
+| Security | Kali Linux · Nmap · Wireshark · Metasploit · Snort |
+| Developer tools | Git · GitHub · VS Code |
  
-</div>
 ---
  
 ## `> git log --stats`
